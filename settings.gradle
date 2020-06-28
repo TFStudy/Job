@@ -1,0 +1,12 @@
+rootProject.name = 'Job'
+include ':app',
+        ':core',
+        ':usercenter',
+        ':common',
+        ':net',
+        ':storage',
+        ':wiget',
+        ':finalce',
+        ':home',
+        ':more',
+        ':account'
